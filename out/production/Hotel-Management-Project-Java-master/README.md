@@ -14,3 +14,20 @@ kind of unexpected exception.
 ##### Topics Covered-  
 Classes and Objects, Inheritance, File Handling with Objects, ArrayList, implementing
 Interface, User defined exception and Exception handling.
+
+### 🏨 Display Room Details and Availability
+![Room Details](./screenshots/1.png)
+![Room Availability](./screenshots/2.png)
+
+### 🧾 Room Booking Flow
+![Select Room Type](./screenshots/3.png)
+![Room Booking with Details](./screenshots/4.png)
+
+### 🍽️ Food Ordering
+![Food Order - Room 12](./screenshots/5.png)
+![Food Order - Room 31](./screenshots/6.png)
+![Multiple Orders - Room 31](./screenshots/7.png)
+
+### 💳 Checkout and Billing
+![Checkout - Deepak](./screenshots/8.png)
+![Checkout - Sudhansu](./screenshots/9.png)
